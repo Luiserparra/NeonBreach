@@ -82,3 +82,9 @@ _ReSharper*/
 
 # --- Crash / dumps ---
 *.dmp
+
+# --- Local learning notes (written after each milestone; not tracked) ---
+Learn/
+
+# --- Local Cursor rules ---
+.cursor/rules/milestone-learn.mdc
