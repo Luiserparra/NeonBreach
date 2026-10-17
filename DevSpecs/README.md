@@ -10,7 +10,7 @@ Tags follow the plan’s weekly versions at week-end milestones; mid-week chunks
 
 | ID | Goal | Plan week | Days | Tag | Status |
 |---|---|---|---|---|---|
-| [M1](M1/M1.md) | Compiling NB framework + Enhanced Input; 2-client PIE movement | W1 D1–2 | 2 | `v0.0` | Not started |
+| [M1](M1/M1.md) | Compiling NB framework + Enhanced Input; 2-client PIE movement | W1 D1–2 | 2 | `v0.0` | Done |
 | [M2](M2/M2.md) | Server-authoritative hitscan, death, respawn; 3 clients in PIE | W1 D3–5 | 3 | `v0.1` | Not started |
 | [M3](M3/M3.md) | ASC on PlayerState + AttributeSet; fire migrated to predicted `GA_Fire` | W2 D1–2 | 2 | `v0.1.1` | Not started |
 | [M4](M4/M4.md) | Dash, Shock Orb, Barrier over the network; lag-tested at 150 ms | W2 D3–5 | 3 | `v0.2` | Not started |

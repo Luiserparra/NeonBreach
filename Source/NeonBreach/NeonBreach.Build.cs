@@ -18,13 +18,28 @@ public class NeonBreach : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
+			"Slate",
+			"SlateCore",
+			"GameplayAbilities",
+			"GameplayTags",
+			"GameplayTasks",
+			"NavigationSystem",
+			"Niagara",
+			"OnlineSubsystem",
+			"OnlineSubsystemUtils"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
 
 		PublicIncludePaths.AddRange(new string[] {
 			"NeonBreach",
+			"NeonBreach/Character",
+			"NeonBreach/Player",
+			"NeonBreach/Game",
+			"NeonBreach/GAS",
+			"NeonBreach/AI",
+			"NeonBreach/Weapon",
+			"NeonBreach/UI",
 			"NeonBreach/Variant_Platforming",
 			"NeonBreach/Variant_Platforming/Animation",
 			"NeonBreach/Variant_Combat",
